@@ -1,0 +1,16 @@
+{
+    "appswift": {
+        "continueTheming": true,
+        "shouldCommitCode": true,
+        "shouldCreateDatabaseSchema": true,
+        "scmType": "git",
+        "scmUserName": "TRIGGEREDcoder",
+        "scmPwd": "githubical4005",
+        "scmUrl": "https://github.com/TRIGGEREDcoder/localAppUpdated.git",
+        "dbUrl": "localhost",
+        "dbUserName": "postgres",
+        "dbPassword": "pgAdminDibya123",
+        "dbName": "bookstore",
+        "dbPort": "5432"
+    }
+}
